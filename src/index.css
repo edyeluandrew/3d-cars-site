@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Oxanium:wght@400;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slider-button {
+  @apply absolute top-1/2 -translate-y-1/2 bg-white bg-opacity-50 hover:bg-opacity-75 text-black text-2xl w-12 h-12 flex items-center justify-center rounded transition-all;
+}
+
+.slider-button.prev {
+  @apply left-4 z-10;
+}
+
+.slider-button.next {
+  @apply right-4 z-10;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
