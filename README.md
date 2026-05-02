@@ -21,7 +21,7 @@ A modern, fully-featured personal portfolio website celebrating the passion for 
 ## 🏗️ Project Structure
 
 ```
-shivan-react/
+edyelu/
 ├── public/
 │   └── images/                 # All car and hero images
 ├── src/
@@ -73,8 +73,8 @@ shivan-react/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/edyeluandrew/3d-cars-site.git shivan-react
-   cd shivan-react
+   git clone https://github.com/edyeluandrew/3d-cars-site.git edyelu
+   cd edyelu
    ```
 
 2. **Install dependencies**
