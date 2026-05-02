@@ -44,7 +44,7 @@ export default function HeroSlider() {
             Car Enthusiast • Luxury • Performance
           </span>
           <h1 className="font-display text-6xl md:text-7xl font-black leading-tight mb-6">
-            Hello, I'm <span className="text-primary">Atwijukire Shivan</span>
+            Hello, I'm <span className="text-primary">Edyelu Andrew</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 leading-relaxed">
             I'm passionate about beautiful machines, strong design, premium presence, and the feeling that comes with great cars. BMW, Mercedes-Benz, and Audi are some of the brands I admire most.

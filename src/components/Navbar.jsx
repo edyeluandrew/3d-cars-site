@@ -12,7 +12,7 @@ export default function Navbar() {
     <header className="bg-secondary sticky top-0 z-1000 shadow-lg">
       <nav className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="font-display text-2xl font-black text-primary tracking-tight">
-          Shivan
+          Edyelu Andrew
         </Link>
 
         <button

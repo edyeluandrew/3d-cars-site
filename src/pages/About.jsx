@@ -29,7 +29,7 @@ export default function About() {
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <span className="text-primary font-semibold text-lg">About Shivan</span>
+              <span className="text-primary font-semibold text-lg">About Edyelu Andrew</span>
               <h1 className="font-display text-5xl md:text-6xl font-black text-secondary mt-2 mb-6">
                 More Than a Car Fan
               </h1>

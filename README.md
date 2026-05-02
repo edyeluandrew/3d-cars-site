@@ -1,4 +1,4 @@
-# 🚗 Atwijukire Shivan - React + Tailwind Portfolio
+# 🚗 Edyelu Andrew - React + Tailwind Portfolio
 
 A modern, fully-featured personal portfolio website celebrating the passion for luxury automotive design and performance. Built with **React 19**, **Vite**, **Tailwind CSS v4**, and **React Router**.
 
